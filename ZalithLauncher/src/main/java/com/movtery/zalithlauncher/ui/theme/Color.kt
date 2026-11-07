@@ -20,7 +20,7 @@ package com.movtery.zalithlauncher.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val primaryLight = ColorTheme(Color(0xFFA63A17), Color(0xFF723D57), Color(0xFF426469), Color(0xFF006684), Color(0xFF676014), Color(0xFF5E5E5F), Color(0xFF004814))
+val primaryLight = ColorTheme(Color(0xFFA63A17), Color(0xFF723D57), Color(0xFF426469), Color(0xFFB0FF), Color(0xFF676014), Color(0xFF5E5E5F), Color(0xFF004814))
 val onPrimaryLight = ColorTheme(Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFFFFFFFF))
 val primaryContainerLight = ColorTheme(Color(0xFFFE7A52), Color(0xFF9B607C), Color(0xFFB1D5DB), Color(0xFF4CAFD6), Color(0xFFEFE58B), Color(0xFFAEAEAE), Color(0xFF276E31))
 val onPrimaryContainerLight = ColorTheme(Color(0xFF2F0700), Color(0xFFFFFFFF), Color(0xFF1E4146), Color(0xFF001B26), Color(0xFF1F1C00), Color(0xFF222324), Color(0xFFFFFFFF))
@@ -56,7 +56,7 @@ val surfaceContainerLight = ColorTheme(Color(0xFFFFE9E4), Color(0xFFF7EBED), Col
 val surfaceContainerHighLight = ColorTheme(Color(0xFFFAE3DD), Color(0xFFF1E5E8), Color(0xFFE8E8E8), Color(0xFFE5E9EC), Color(0xFFEDE8DA), Color(0xFFEBE7E7), Color(0xFFE6E9E1))
 val surfaceContainerHighestLight = ColorTheme(Color(0xFFF4DED8), Color(0xFFEBE0E2), Color(0xFFE3E2E2), Color(0xFFDFE3E6), Color(0xFFE7E2D5), Color(0xFFE5E2E1), Color(0xFFE0E4DB))
 
-val primaryDark = ColorTheme(Color(0xFFFFB59F), Color(0xFFF9B2D2), Color(0xFFCEF3F9), Color(0xFF73D2FB), Color(0xFFD2C972), Color(0xFFC7C6C6), Color(0xFF8ED88E))
+val primaryDark = ColorTheme(Color(0xFFFFB59F), Color(0xFFF9B2D2), Color(0xFFCEF3F9), Color(0xFF00E5FF), Color(0xFFD2C972), Color(0xFFC7C6C6), Color(0xFF8ED88E))
 val onPrimaryDark = ColorTheme(Color(0xFF5F1600), Color(0xFF4F2039), Color(0xFF11353A), Color(0xFF003546), Color(0xFF353100), Color(0xFF2F3131), Color(0xFF00390F))
 val primaryContainerDark = ColorTheme(Color(0xFFC4502B), Color(0xFF915873), Color(0xFFA5C9CF), Color(0xFF007EA2), Color(0xFF4E4800), Color(0xFF9B9B9B), Color(0xFF005219))
 val onPrimaryContainerDark = ColorTheme(Color(0xFFFFFFFF), Color(0xFFFFFFFF), Color(0xFF14383D), Color(0xFFFFFFFF), Color(0xFFEFE58B), Color(0xFF0B0C0D), Color(0xFFA6F2A5))
